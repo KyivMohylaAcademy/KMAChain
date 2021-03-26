@@ -1,5 +1,5 @@
 module.exports = {
-    "email": {
+    "student@ukma.edu.ua": {
         "fullName": "Full Name",
         "specialty": "Specialty",
         "faculty": "Faculty",
