@@ -3,7 +3,7 @@ module.exports = {
         "fullName": "FirstName SecondName LastName",
         "faculty": "facultyName",
         "specialty": "specialtyName",
-        "yearOfStudy": 1,
+        "studyYear": 1,
         "semesters": [
             {
                 "semester": 1,
