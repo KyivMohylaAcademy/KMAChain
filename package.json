@@ -1,0 +1,22 @@
+{
+  "name": "kmachain",
+  "version": "1.0.0",
+  "description": "NaUKMA permissioned blockchain <br>\r This is joint project of students learning Basics of blockchain technology and cryptocurrencies at FI NaUKMA and 482.solutions company <br>\r Mission of the project is to develop dapp Electronic Student Records on permissioned blockchain KMAChain build with HyperLedger Fabric",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TRovnina/KMAChain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TRovnina/KMAChain/issues"
+  },
+  "homepage": "https://github.com/TRovnina/KMAChain#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
