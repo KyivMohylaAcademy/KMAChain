@@ -1,0 +1,33 @@
+{
+    "bbruh@ukma.edu.ua": {
+        "fullName": "Bruh Bruhovych",
+        "faculty": "Faculty of Informatics",
+        "speciality": "Computer Science",
+        "semester": [
+            {
+                "num": 1,
+                "subjects": [
+                    {
+                        "title": "Blockchain",
+                        "tutor": "bublik@ukma.edu.ua",
+                        "grade": 97,
+                        "tasks": [
+                            {
+                                "title": "task1",
+                                "grade": 9
+                            },
+                            {
+                                "title": "task2",
+                                "grade": 10
+                            },
+                            {
+                                "title": "task3",
+                                "grade": 10
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
