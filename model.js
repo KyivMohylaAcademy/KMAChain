@@ -11,7 +11,7 @@ module.exports = {
                     {
                         "name": "Course Name",
                         "lector": "FirstName SecondName LastName",
-                        "lectorEmail": "lector@ukma.edu.ua",
+                        "email": "lector@ukma.edu.ua",
                         "mark": 100,
                         "topics": [
                             {
