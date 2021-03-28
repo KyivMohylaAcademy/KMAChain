@@ -1,0 +1,24 @@
+{
+    "name.surname@ukma.edu.ua": {
+        "name": "Illia Yatsyshyn",
+        "faculty": "Faculty of Informatics",
+        "speciality": "Computer Science",
+        "semester": [{
+            "idx": 1,
+            "subjects": [{
+                "name": "Blockchain",
+                "tutor": "kyrylog@ukma.edu.ua",
+                "grade": 98,
+                "tasks": [{
+                        "title": "Ethereum task1 transaction with data",
+                        "grade": 5
+                    },
+                    {
+                        "title": "Ethereum task2 ERC20 token",
+                        "grade": 5
+                    }
+                ]
+            }]
+        }]
+    }
+}

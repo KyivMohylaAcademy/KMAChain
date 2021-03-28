@@ -1,0 +1,23 @@
+{
+    "name": "kmachain",
+    "version": "1.0.0",
+    "description": "This is joint project of students learning Basics of blockchain technology and cryptocurrencies at FI NaUKMA and 482.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tsshn/KMAChain.git"
+    },
+    "author": "Illia Yatsyshyn",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tsshn/KMAChain/issues"
+    },
+    "homepage": "https://github.com/tsshn/KMAChain#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
