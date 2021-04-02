@@ -1,0 +1,75 @@
+{
+  "test_student@ukma.edu.ua": {
+    "fullName": "Test Test",
+    "faculty": "Faculty of test",
+    "specialty": "Specialty of Test",
+    "semesters": [
+      {
+        "num": 1,
+        "subjects": [
+          {
+            "name": "Basic Programming",
+            "tutor": "test_tutor1@ukma.edu.ua",
+            "grade": 93,
+            "tasks": [
+              {
+                "title": "Lab #1",
+                "grade": 10
+              },
+              {
+                "title": "Lab #2",
+                "grade": 15
+              }
+            ]
+          },
+          {
+            "name": "Web Programming",
+            "tutor": "test_tutor2@ukma.edu.ua",
+            "grade": 91,
+            "tasks": [
+              {
+                "title": "Lab #1",
+                "grade": 20
+              },
+              {
+                "title": "Lab #2",
+                "grade": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "subjects": [
+          {
+            "name": "Machine Learning",
+            "tutor": "test_tutor3@ukma.edu.ua",
+            "grade": 85,
+            "tasks": [
+              {
+                "title": "Lab Tree #1",
+                "grade": 30
+              },
+              {
+                "title": "Lab Neural #2",
+                "grade": 25
+              }
+            ]
+          },
+          {
+            "name": "Electronics",
+            "tutor": "test_tutor4@ukma.edu.ua",
+            "grade": 100,
+            "tasks": [
+              {
+                "title": "Soldering #1",
+                "grade": 25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
