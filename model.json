@@ -1,0 +1,44 @@
+{
+  "student@ukma.edu.ua": {
+    "fullName": "Name",
+    "faculty": "Faculty",
+    "specialty": "Specialty",
+    "introductory_year": 2017,
+    "semesters": [
+      {
+        "number": 1,
+        "subjects": [
+          {
+            "name": "С#",
+            "professor": "professor@ukma.edu.ua",
+            "grade": 91,
+            "themes": [
+              {
+                "title": "Lab1",
+                "grade": 10,
+                "date": "10.09.2017"
+              },
+              {
+                "title": "Lab2",
+                "grade": 20,
+                "date": "20.09.2017"
+              }
+            ]
+          },
+          {
+            "name": "Java",
+            "professor": "professor2@ukma.edu.ua",
+            "grade": 95,
+            "themes": [
+              {
+                "title": "Lab1",
+                "grade": 20,
+                "date": "05.09.2017"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
