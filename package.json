@@ -1,0 +1,28 @@
+{
+  "name": "kmachain",
+  "version": "1.0.0",
+  "description": "NaUKMA permissioned blockchain based on HyperLedger Fabric framework",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyivMohylaAcademy/KMAChain.git"
+  },
+  "keywords": [
+    "blockchain",
+    "dapp",
+    "hyperledger"
+  ],
+  "author": "Blockchain and cryptocurrencies course, winter-spring 2021",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KyivMohylaAcademy/KMAChain/issues"
+  },
+  "homepage": "https://github.com/KyivMohylaAcademy/KMAChain#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
